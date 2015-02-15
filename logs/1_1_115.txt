@@ -1,0 +1,74 @@
+Mon Feb 09 17:37:07 EST 2015|Unknown column 'transactionID' in 'where clause'
+Mon Feb 09 17:37:07 EST 2015|SELECT * FROM customer WHERE transactionID = '15bce8aa-f9e9-479a-9ba5-a893bec24052'
+Mon Feb 09 19:42:59 EST 2015|You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'customer_account ON accountId = fk_accountIdJOIN customer ON fk_customerId = cus' at line 1
+Mon Feb 09 19:42:59 EST 2015|SELECT accountID, type, balance, interestRate, penalty, status, dateOpen,customerID, lastName, firstName, ssn, streetAddress, city, state,zip, loginName, pinFROM accountJOIN customer_account ON accountId = fk_accountIdJOIN customer ON fk_customerId = customerId;
+Mon Feb 09 19:47:23 EST 2015|null
+Mon Feb 09 19:47:23 EST 2015|SELECT * FROM transaction WHERE transactionID = '3164e980-ad76-11e4-a38e-005056881e07'
+Mon Feb 09 19:47:37 EST 2015|null
+Mon Feb 09 19:47:37 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:47:54 EST 2015|null
+Mon Feb 09 19:47:54 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:48:07 EST 2015|null
+Mon Feb 09 19:48:07 EST 2015|SELECT * FROM transaction WHERE transactionID = '1c54c5dc-b0a1-11e4-a38e-005056881e07'
+Mon Feb 09 19:49:53 EST 2015|null
+Mon Feb 09 19:49:53 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:50:45 EST 2015|null
+Mon Feb 09 19:50:45 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:51:52 EST 2015|null
+Mon Feb 09 19:51:52 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:52:22 EST 2015|null
+Mon Feb 09 19:52:22 EST 2015|SELECT accountID, type, balance, interestRate, penalty, status, dateOpen,customerID, lastName, firstName, ssn, streetAddress, city, state,zip, loginName, pin FROM account JOIN customer_account ON accountId = fk_accountId JOIN customer ON fk_customerId = customerId;
+Mon Feb 09 19:53:01 EST 2015|null
+Mon Feb 09 19:53:01 EST 2015|SELECT * FROM account WHERE accountID = 'e6274ca4-5d41-11e3-94ef-97beef767f1d'
+Mon Feb 09 19:53:50 EST 2015|null
+Mon Feb 09 19:53:50 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:53:55 EST 2015|null
+Mon Feb 09 19:53:55 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:53:57 EST 2015|null
+Mon Feb 09 19:53:57 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:53:58 EST 2015|null
+Mon Feb 09 19:53:58 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:53:59 EST 2015|null
+Mon Feb 09 19:53:59 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:00 EST 2015|null
+Mon Feb 09 19:54:00 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:01 EST 2015|null
+Mon Feb 09 19:54:01 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:02 EST 2015|null
+Mon Feb 09 19:54:02 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:03 EST 2015|null
+Mon Feb 09 19:54:03 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:04 EST 2015|null
+Mon Feb 09 19:54:04 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:06 EST 2015|null
+Mon Feb 09 19:54:06 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:07 EST 2015|null
+Mon Feb 09 19:54:07 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:08 EST 2015|null
+Mon Feb 09 19:54:08 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:09 EST 2015|null
+Mon Feb 09 19:54:09 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:10 EST 2015|null
+Mon Feb 09 19:54:10 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:12 EST 2015|null
+Mon Feb 09 19:54:12 EST 2015|SELECT * FROM account 
+Mon Feb 09 19:54:31 EST 2015|null
+Mon Feb 09 19:54:31 EST 2015|SELECT * FROM account;
+Mon Feb 09 19:55:19 EST 2015|null
+Mon Feb 09 19:55:19 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Mon Feb 09 19:55:38 EST 2015|null
+Mon Feb 09 19:55:38 EST 2015|SELECT * FROM account;
+Mon Feb 09 19:56:15 EST 2015|null
+Mon Feb 09 19:56:15 EST 2015|SELECT * FROM account;
+Mon Feb 09 19:57:56 EST 2015|null
+Mon Feb 09 19:57:56 EST 2015|SELECT * FROM account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
+Mon Feb 09 19:58:34 EST 2015|null
+Mon Feb 09 19:58:34 EST 2015|SELECT * FROM customer WHERE customerID = '01b9f986-5d41-11e3-94ef-97beef767f1d'
+Mon Feb 09 20:09:45 EST 2015|null
+Mon Feb 09 20:09:45 EST 2015|SELECT * FROM customer WHERE customerID = 'aecca084-5d40-11e3-94ef-97beef767f1d'
+Mon Feb 09 20:34:18 EST 2015|null
+Mon Feb 09 20:34:18 EST 2015|SELECT * FROM customer WHERE customerID = 'c39c92f8-5d40-11e3-94ef-97beef767f1d'
+Mon Feb 09 20:34:47 EST 2015|null
+Mon Feb 09 20:34:47 EST 2015|SELECT * FROM account;
+Mon Feb 09 20:34:55 EST 2015|null
+Mon Feb 09 20:34:55 EST 2015|SELECT * FROM account;

@@ -1,0 +1,120 @@
+Tue Feb 10 13:50:08 EST 2015|null
+Tue Feb 10 13:50:08 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Tue Feb 10 13:50:35 EST 2015|null
+Tue Feb 10 13:50:35 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:03 EST 2015|null
+Tue Feb 10 13:51:03 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:42 EST 2015|null
+Tue Feb 10 13:51:42 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:45 EST 2015|null
+Tue Feb 10 13:51:45 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:46 EST 2015|null
+Tue Feb 10 13:51:46 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:47 EST 2015|null
+Tue Feb 10 13:51:47 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:48 EST 2015|null
+Tue Feb 10 13:51:48 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:49 EST 2015|null
+Tue Feb 10 13:51:49 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:49 EST 2015|null
+Tue Feb 10 13:51:49 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:51 EST 2015|null
+Tue Feb 10 13:51:51 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:52 EST 2015|null
+Tue Feb 10 13:51:52 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:53 EST 2015|null
+Tue Feb 10 13:51:53 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:54 EST 2015|null
+Tue Feb 10 13:51:54 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:55 EST 2015|null
+Tue Feb 10 13:51:55 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:55 EST 2015|null
+Tue Feb 10 13:51:55 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:56 EST 2015|null
+Tue Feb 10 13:51:56 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 13:51:57 EST 2015|null
+Tue Feb 10 13:51:57 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:41:24 EST 2015|null
+Tue Feb 10 15:41:24 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Tue Feb 10 15:41:48 EST 2015|null
+Tue Feb 10 15:41:48 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:41:55 EST 2015|null
+Tue Feb 10 15:41:55 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:41:57 EST 2015|null
+Tue Feb 10 15:41:57 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:42:00 EST 2015|null
+Tue Feb 10 15:42:00 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:42:11 EST 2015|null
+Tue Feb 10 15:42:11 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:42:15 EST 2015|null
+Tue Feb 10 15:42:15 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:42:17 EST 2015|null
+Tue Feb 10 15:42:17 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:42:37 EST 2015|null
+Tue Feb 10 15:42:37 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:42:56 EST 2015|null
+Tue Feb 10 15:42:56 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:43:02 EST 2015|null
+Tue Feb 10 15:43:02 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:43:21 EST 2015|null
+Tue Feb 10 15:43:21 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:44:18 EST 2015|null
+Tue Feb 10 15:44:18 EST 2015|SELECT * FROM account WHERE accountID = 'd1415b08-5d42-11e3-94ef-97beef767f1d'
+Tue Feb 10 15:44:24 EST 2015|null
+Tue Feb 10 15:44:24 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:15 EST 2015|null
+Tue Feb 10 15:52:15 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:19 EST 2015|null
+Tue Feb 10 15:52:19 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:21 EST 2015|null
+Tue Feb 10 15:52:21 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:23 EST 2015|null
+Tue Feb 10 15:52:23 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:24 EST 2015|null
+Tue Feb 10 15:52:24 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:25 EST 2015|null
+Tue Feb 10 15:52:25 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:26 EST 2015|null
+Tue Feb 10 15:52:26 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:26 EST 2015|null
+Tue Feb 10 15:52:26 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:27 EST 2015|null
+Tue Feb 10 15:52:27 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:28 EST 2015|null
+Tue Feb 10 15:52:28 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:29 EST 2015|null
+Tue Feb 10 15:52:29 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:29 EST 2015|null
+Tue Feb 10 15:52:29 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:30 EST 2015|null
+Tue Feb 10 15:52:30 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:31 EST 2015|null
+Tue Feb 10 15:52:31 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:31 EST 2015|null
+Tue Feb 10 15:52:31 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:32 EST 2015|null
+Tue Feb 10 15:52:32 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:33 EST 2015|null
+Tue Feb 10 15:52:33 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:34 EST 2015|null
+Tue Feb 10 15:52:34 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:34 EST 2015|null
+Tue Feb 10 15:52:34 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:35 EST 2015|null
+Tue Feb 10 15:52:35 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:36 EST 2015|null
+Tue Feb 10 15:52:36 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:36 EST 2015|null
+Tue Feb 10 15:52:36 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:37 EST 2015|null
+Tue Feb 10 15:52:37 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:37 EST 2015|null
+Tue Feb 10 15:52:37 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:52:38 EST 2015|null
+Tue Feb 10 15:52:38 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 15:53:39 EST 2015|null
+Tue Feb 10 15:53:39 EST 2015|SELECT * FROM customer WHERE loginName ='jmalley' AND pin=7389;
+Tue Feb 10 19:13:29 EST 2015|Unknown column 'customerID' in 'where clause'
+Tue Feb 10 19:13:29 EST 2015|SELECT * FROM user_permissions WHERE customerID ='01b9f986-5d41-11e3-94ef-97beef767f1d';
+Tue Feb 10 19:13:52 EST 2015|Unknown column 'userID' in 'where clause'
+Tue Feb 10 19:13:52 EST 2015|SELECT * FROM user_permissions WHERE userID ='01b9f986-5d41-11e3-94ef-97beef767f1d';
